@@ -8,6 +8,9 @@ h1{
     font-family: 'Inter', sans-serif;
     font-family: 'Roboto', sans-serif;
 }
+h2{
+    font-size: 45px;
+}
 .header-bg{
     background-image: url(images/donation7.jpg);
     background-repeat: no-repeat;
@@ -31,10 +34,62 @@ h1{
 .header-button{
     text-decoration: none;
     color: white;
-    padding: 16px 20px;
+    padding: 12px 30px;
     background-color: #FF5959;
     border-radius: 5px;
     font-weight: 700;
     font-family: 'Inter', sans-serif;
     font-family: 'Roboto', sans-serif;
+}
+.today-top{
+    text-align: center;
+    margin-top: 100px;
+    font-family: 'Roboto', sans-serif;
+}
+.today-header{
+    margin-bottom: 15px;
+}
+.today-paragraph{
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 20px;
+}
+.today-middle{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 30px;
+    margin-top: 70px;
+}
+
+.today-middle-100tk{
+    padding: 50px 60px;
+    background-color: rgb(236, 234, 234);
+    border-radius: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+}
+.today-middle-200tk{
+    border: 2px solid #FF5959;
+    color: #FF5959;
+    background-color: #FFEEEE;
+}
+.horizontal-rule{
+    width: 60%;
+    margin-bottom: 35px;
+    margin-left: 250px;
+    margin-top: 10px;
+}
+.today-third .input{
+    border: none;
+    font-size: 18px;
+    margin-left: 575px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+.today-third{
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+.donate-button{
+    margin-left: 585px;
 }
