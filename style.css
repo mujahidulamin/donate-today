@@ -93,3 +93,84 @@ h2{
 .donate-button{
     margin-left: 585px;
 }
+
+.plan-top{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 100px;
+}
+
+.card {
+    display: flex;
+    justify-content: space-between;
+    height: 300px;
+    margin-top: 45px;
+    margin-bottom: 45px;
+   
+  }
+  .food-card{
+    margin-left: 80px;
+    border-radius: 10px;
+    background-color: rgba(79, 157, 166, 0.1);
+  }
+  .shelter-card{
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    background: rgba(255, 89, 89, 0.1);
+  }
+  .education-card{
+    margin-right: 80px;
+    border-radius: 10px;
+    background: #FFF4D6;
+  }
+.shelter-img{
+    margin-top: 45px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+  }
+  .shelter-header{
+    margin-bottom: 20px;
+    margin-left: 20px;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+  }
+  .shelter-content{
+    margin-bottom: 20px;
+    margin-left: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+.food-img{
+    margin-top: 45px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.food-header{
+    margin-bottom: 20px;
+    margin-left: 20px;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+  }
+  .food-content{
+    margin-bottom: 20px;
+    margin-left: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+.education-img{
+    margin-top: 45px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.education-header{
+    margin-bottom: 20px;
+    margin-left: 20px;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+  }
+  .education-content{
+    margin-bottom: 20px;
+    margin-left: 20px;
+    font-family: 'Roboto', sans-serif;
+}
