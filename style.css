@@ -1,37 +1,43 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
-h1{
+
+h1 {
     color: white;
     font-size: 65px;
     font-family: 'Inter', sans-serif;
     font-family: 'Roboto', sans-serif;
 }
-h2{
+
+h2 {
     font-size: 45px;
 }
-.header-bg{
+
+.header-bg {
     background-image: url(images/donation7.jpg);
     background-repeat: no-repeat;
     height: 120vh;
     background-color: rgba(0, 0, 0, 0.3);
     background-blend-mode: soft-light;
 }
-.header-content{
+
+.header-content {
     text-align: center;
     padding-top: 200px;
     padding-left: 200px;
     padding-right: 200px;
 }
-.header-middle{
+
+.header-middle {
     font-size: 16px;
     color: white;
     font-family: 'Roboto', sans-serif;
     margin-top: 15px;
     margin-bottom: 40px;
 }
-.header-button{
+
+.header-button {
     text-decoration: none;
     color: white;
     padding: 12px 30px;
@@ -41,26 +47,30 @@ h2{
     font-family: 'Inter', sans-serif;
     font-family: 'Roboto', sans-serif;
 }
-.today-top{
+
+.today-top {
     text-align: center;
     margin-top: 100px;
     font-family: 'Roboto', sans-serif;
 }
-.today-header{
+
+.today-header {
     margin-bottom: 15px;
 }
-.today-paragraph{
+
+.today-paragraph {
     font-family: 'Roboto', sans-serif;
     margin-bottom: 20px;
 }
-.today-middle{
+
+.today-middle {
     display: flex;
     justify-content: space-evenly;
     margin-bottom: 30px;
     margin-top: 70px;
 }
 
-.today-middle-100tk{
+.today-middle-100tk {
     padding: 50px 60px;
     background-color: rgb(236, 234, 234);
     border-radius: 10px;
@@ -68,33 +78,38 @@ h2{
     font-weight: 700;
     font-size: 30px;
 }
-.today-middle-200tk{
+
+.today-middle-200tk {
     border: 2px solid #FF5959;
     color: #FF5959;
     background-color: #FFEEEE;
 }
-.horizontal-rule{
+
+.horizontal-rule {
     width: 60%;
     margin-bottom: 35px;
     margin-left: 250px;
     margin-top: 10px;
 }
-.today-third .input{
+
+.today-third .input {
     border: none;
     font-size: 18px;
     margin-left: 575px;
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
 }
-.today-third{
+
+.today-third {
     margin-top: 80px;
     margin-bottom: 20px;
 }
-.donate-button{
+
+.donate-button {
     margin-left: 585px;
 }
 
-.plan-top{
+.plan-top {
     text-align: center;
     font-family: 'Roboto', sans-serif;
     margin-top: 100px;
@@ -106,70 +121,80 @@ h2{
     height: 300px;
     margin-top: 45px;
     margin-bottom: 45px;
-   
-  }
-  .food-card{
+
+}
+
+.food-card {
     margin-left: 80px;
     border-radius: 10px;
     background-color: rgba(79, 157, 166, 0.1);
-  }
-  .shelter-card{
+}
+
+.shelter-card {
     margin-left: 20px;
     margin-right: 20px;
     border-radius: 10px;
     background: rgba(255, 89, 89, 0.1);
-  }
-  .education-card{
+}
+
+.education-card {
     margin-right: 80px;
     border-radius: 10px;
     background: #FFF4D6;
-  }
-.shelter-img{
-    margin-top: 45px;
-    margin-bottom: 20px;
-    margin-left: 20px;
-  }
-  .shelter-header{
-    margin-bottom: 20px;
-    margin-left: 20px;
-    font-size: 25px;
-    font-family: 'Roboto', sans-serif;
-  }
-  .shelter-content{
-    margin-bottom: 20px;
-    margin-left: 20px;
-    font-family: 'Roboto', sans-serif;
 }
-.food-img{
+
+.shelter-img {
     margin-top: 45px;
     margin-bottom: 20px;
     margin-left: 20px;
 }
 
-.food-header{
+.shelter-header {
     margin-bottom: 20px;
     margin-left: 20px;
     font-size: 25px;
     font-family: 'Roboto', sans-serif;
-  }
-  .food-content{
+}
+
+.shelter-content {
     margin-bottom: 20px;
     margin-left: 20px;
     font-family: 'Roboto', sans-serif;
 }
-.education-img{
+
+.food-img {
     margin-top: 45px;
     margin-bottom: 20px;
     margin-left: 20px;
 }
 
-.education-header{
+.food-header {
     margin-bottom: 20px;
     margin-left: 20px;
     font-size: 25px;
     font-family: 'Roboto', sans-serif;
-  }
-  .education-content{
+}
+
+.food-content {
+    margin-bottom: 20px;
+    margin-left: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.education-img {
+    margin-top: 45px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.education-header {
+    margin-bottom: 20px;
+    margin-left: 20px;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.education-content {
     margin-bottom: 20px;
     margin-left: 20px;
     font-family: 'Roboto', sans-serif;
