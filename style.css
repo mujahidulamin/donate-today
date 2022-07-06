@@ -14,6 +14,8 @@ h2 {
     font-size: 45px;
 }
 
+/*--------Header Part Start----------*/
+
 .header-bg {
     background-image: url(images/donation7.jpg);
     background-repeat: no-repeat;
@@ -48,6 +50,10 @@ h2 {
     font-family: 'Roboto', sans-serif;
 }
 
+/*--------Header Part End----------*/
+
+
+/*--------Donate Part Start---------*/
 .today-top {
     text-align: center;
     margin-top: 100px;
@@ -109,6 +115,9 @@ h2 {
     margin-left: 585px;
 }
 
+/*--------Donate Part End---------*/
+
+/*--------Plan Part Start---------*/
 .plan-top {
     text-align: center;
     font-family: 'Roboto', sans-serif;
@@ -200,46 +209,60 @@ h2 {
     font-family: 'Roboto', sans-serif;
 }
 
+/*--------Plan Part End---------*/
 
 
-.help-part h1{
+/*--------Help Part Start---------*/
+
+.help-part h1 {
     font-size: 45px;
     color: black;
     margin-bottom: 30px;
     font-family: 'Roboto', sans-serif;
 }
-.help{
-    display:flex;
+
+.help {
+    display: flex;
 }
 
-.half-width{
+.half-width {
     width: 80%;
     padding: 5%;
 }
-.half-width img{
+
+.half-width img {
     height: 400px;
     width: 100%;
     border-radius: 10px;
 }
-.top-help{
+
+.top-help {
     margin-bottom: 15px;
 }
-.middle-help{
+
+.middle-help {
     margin-bottom: 15px;
 }
-.help-content{
+
+.help-content {
     font-family: 'Roboto', sans-serif;
 }
 
-.update-top{
+/*--------Help Part End---------*/
+
+
+/*--------Update Part Start---------*/
+
+.update-top {
     text-align: center;
     font-family: 'Roboto', sans-serif;
 }
-.update-header{
+
+.update-header {
     margin-bottom: 15px;
 }
 
-.update-bottom-bg{
+.update-bottom-bg {
     background-color: #FFF4D6;
     height: 200px;
     width: 70%;
@@ -248,9 +271,10 @@ h2 {
     margin-bottom: 20px;
     border-radius: 10px;
 }
-.update-bottom-bg input{
+
+.update-bottom-bg input {
     margin-left: 45px;
-    border:none;
+    border: none;
     background-color: #D9D9D9;
     height: 40px;
     width: 400px;
@@ -258,7 +282,8 @@ h2 {
     border-radius: 5px;
     margin-left: 180px;
 }
-.update-btn{
+
+.update-btn {
     height: 40px;
     width: 150px;
     border-top-right-radius: 5px;
@@ -268,19 +293,26 @@ h2 {
     border: none;
     margin-left: -5px;
 }
-.footer-bg{
+
+/*--------Update Part End---------*/
+
+/*--------Footer Part Start---------*/
+.footer-bg {
     background-color: #0B0D17;
     height: 180px;
     text-align: center;
 }
-.footer-header{
+
+.footer-header {
     font-size: 36px;
     font-family: 'Roboto', sans-serif;
     color: #FF5959;
     padding-top: 40px;
 }
-footer p{
+
+footer p {
     margin-top: 10px;
-    color:  #D9DBE1;
+    color: #D9DBE1;
     font-family: 'Roboto', sans-serif;
 }
+/*--------Footer Part End---------*/
