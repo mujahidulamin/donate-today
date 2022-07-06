@@ -268,3 +268,19 @@ h2 {
     border: none;
     margin-left: -5px;
 }
+.footer-bg{
+    background-color: #0B0D17;
+    height: 180px;
+    text-align: center;
+}
+.footer-header{
+    font-size: 36px;
+    font-family: 'Roboto', sans-serif;
+    color: #FF5959;
+    padding-top: 40px;
+}
+footer p{
+    margin-top: 10px;
+    color:  #D9DBE1;
+    font-family: 'Roboto', sans-serif;
+}
