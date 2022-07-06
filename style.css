@@ -199,3 +199,34 @@ h2 {
     margin-left: 20px;
     font-family: 'Roboto', sans-serif;
 }
+
+
+
+.help-part h1{
+    font-size: 45px;
+    color: black;
+    margin-bottom: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+.help{
+    display:flex;
+}
+
+.half-width{
+    width: 80%;
+    padding: 5%;
+}
+.half-width img{
+    height: 400px;
+    width: 100%;
+    border-radius: 10px;
+}
+.top-help{
+    margin-bottom: 15px;
+}
+.middle-help{
+    margin-bottom: 15px;
+}
+.help-content{
+    font-family: 'Roboto', sans-serif;
+}
